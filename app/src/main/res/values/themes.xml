@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PKart" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+     <!--    <item name="colorPrimary">@color/red</item> -->
+
+    </style>
+
+    <style name="Theme.PKart" parent="Base.Theme.PKart" />
+</resources>
